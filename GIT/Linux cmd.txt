@@ -1,0 +1,16 @@
+cd: change directory
+cd ..: back to last directory
+pwd: Display current directory
+clear: clear screen
+ls(ll): Lists all files in the current directory
+touch [file-name]: create a new file in current directory
+rm [file-name]: remove any file in current directory
+mkdir [dir-name]: create a directory
+rm -r [dir-name]: remove a directory
+rm -rf/: Never try this cmd on ur linux terminal. It well clear all ur file on your computer!!!
+mv [file-name] [dir-name]: move file into a directory
+reset: Reinitialize the terminal
+history: Query History Commands
+exit: quit
+
+
